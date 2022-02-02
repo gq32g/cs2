@@ -25,5 +25,6 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 
 
 
+git clone https://github.com/riverscn/luci-app-omcproxy.git package/lean/luci-app-omcproxy
 
-
+git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy
