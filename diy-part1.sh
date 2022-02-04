@@ -20,11 +20,11 @@
 
 #echo 'src-git kenzo  https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
-echo 'src-git kenzo  https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
-echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+#echo 'src-git kenzo  https://github.com/kenzok8/openwrt-packages' >>feeds.conf.default
+#echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 
 
 
-git clone https://github.com/riverscn/luci-app-omcproxy.git package/lean/luci-app-omcproxy
+#git clone https://github.com/riverscn/luci-app-omcproxy.git package/lean/luci-app-omcproxy
 
-git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy
+#git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy
