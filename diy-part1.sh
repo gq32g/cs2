@@ -29,4 +29,4 @@ sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.
 
 #git clone https://github.com/riverscn/luci-app-omcproxy.git package/lean/luci-app-omcproxy
 
-#git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy.git
+git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy.git
