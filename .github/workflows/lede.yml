@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: iptv OpenWrt
+name: ledeOpenWrt
 
 on:
   repository_dispatch:
