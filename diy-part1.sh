@@ -30,3 +30,7 @@
 #git clone https://github.com/riverscn/luci-app-omcproxy.git package/lean/luci-app-omcproxy
 
 #git clone https://github.com/pali/igmpproxy.git package/lean/igmpproxy.git
+
+git clone https://github.com/nickilchen/luci-app-socat.git package/luci-app-socat
+
+git clone https://github.com/rufengsuixing/luci-app-zerotier.git package/luci-app-zerotier
